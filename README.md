@@ -1,6 +1,3 @@
-Aquí tienes un README.md completo y profesional para tu proyecto GitHub:
-
-```markdown
 # ESP32 Web Server con LittleFS
 
 ![ESP32](https://img.shields.io/badge/ESP32-Desarrollo-blue)
